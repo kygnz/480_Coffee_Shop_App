@@ -15,3 +15,22 @@ Hybrid (barista and manager): Username "kyla", password "c"
 - create the database: createdb -U postgres coffeedb
 - load schema: psql -U postgres -d coffeedb -f schema.sql
 - start express.js: node server.js
+
+
+
+
+<img width="2996" height="1462" alt="image" src="https://github.com/user-attachments/assets/38bc8002-f4ef-4b00-9abb-04d65402c8b5" />
+<br>
+<br>
+<br>
+
+<img width="3006" height="1456" alt="image" src="https://github.com/user-attachments/assets/65e295a8-c9af-406d-8516-74dab32f0216" />
+
+<br>
+<br>
+<br>
+
+<img width="2982" height="1626" alt="image" src="https://github.com/user-attachments/assets/f653fb1b-97d5-46e6-a221-e71590419038" />
+
+
+
